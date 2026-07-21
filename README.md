@@ -96,4 +96,3 @@ The design follows a modular RTL architecture:
 ## 👤 Author
 
 **Di-nesh-design**
-Feel free to raise issues or submit pull requests for improvements.
